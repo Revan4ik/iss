@@ -1,0 +1,29 @@
+.list {
+  border: solid black 1px;
+  margin: 10px 20px 0 20px;
+}
+.name-list {
+  display: flex;
+  border: solid black 1px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  margin-right: 20px;
+}
+.name-list:first-child {
+  margin-top: 15px;
+}
+.name-icon {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.name {
+  font-size: 30px;
+  margin-left: 20px;
+}
+.total {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  border: solid black 1px;
+  margin: 2px 20px 0px 20px;
+}
