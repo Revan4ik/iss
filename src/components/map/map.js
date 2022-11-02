@@ -3,7 +3,7 @@ import GoogleMapReact from "google-map-react";
 import "./map.scss";
 
 const ISS_URL = "http://api.open-notify.org/iss-now.json";
-const img = <img src="./iss.svg" alt="iss" height="30px" />;
+const img = <img src="./iss.svg" alt="iss" height="50px" />;
 
 const SpaceStation = ({ img }) => <div>{img}</div>;
 
